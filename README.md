@@ -1,4 +1,4 @@
-# LABORATORIO 2 - PATTERNS
+![imagen](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/00c90344-1401-4373-a248-ae565a511b02)# LABORATORIO 2 - PATTERNS
 
 Daniel Alejandro Acero
 
@@ -130,8 +130,25 @@ Julián David Triana Roa
 
     Para crear el saludo personalizado se ejecuta la clase App.java 
 
+![Captura de pantalla 2024-02-08 135154](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/7ebaa169-3081-4c71-a9c5-387c993a4a3c)
 
+    y, luego, se modifica
 
+![Captura de pantalla 2024-02-08 141900](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/9204a8c3-e73f-432c-b7b5-d8f398c75eb3)
+
+    Se valida la salida **Hello World!** desde la línea de comandos
+
+![imagen](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/a0c2a4f8-2318-4c21-acf1-e62729bdffe5)
+
+    Se [cambia la salida](https://www.mojohaus.org/exec-maven-plugin/examples/example-exec-for-java-programs.html) con el nombre propio
+
+        
+
+    Se cambia la salida con el nombre y apellido
+
+    
+    
+    
 
 ## HACER EL ESQUELETO DE LA APLICACIÓN
         
