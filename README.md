@@ -144,7 +144,7 @@ Parámetro: pentagon
 Parámetro: Hexagon
 
 
-##¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+## ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
 Todas las intrucciones ejecutadas funcionan correctamente, pues hace las correspondientes validaciones como lo son: que tenga párametro, que exista la figura ingresada y por último si cumple lo anterior muestra los vértices de la figura
 
