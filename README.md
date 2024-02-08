@@ -1,4 +1,4 @@
-![imagen](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/00c90344-1401-4373-a248-ae565a511b02)# LABORATORIO 2 - PATTERNS
+# LABORATORIO 2 - PATTERNS
 
 Daniel Alejandro Acero
 
