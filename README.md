@@ -1,5 +1,8 @@
 # LABORATORIO 2 - PATTERNS
 
+Daniel Alejandro Acero
+
+Julián David Triana Roa
 
 ## LA HERRAMIENTA MAVEN
 
@@ -90,7 +93,7 @@
 
 ![Captura de pantalla 2024-02-08 073508](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/d151a436-94aa-4a5d-a184-83d5c1ba12b3)
 
-    Se onfigura el cambio de Java a la versión 8. Para esto, se agrega en la ubicación respectiva
+    Se configura el cambio de Java a la versión 8. Para esto, se agrega en la ubicación respectiva
 
 ![Captura de pantalla 2024-02-08 074345](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/d4646a77-25f6-4bee-afbe-11faa5781e18)
 
@@ -123,9 +126,4 @@
         
  ![mvn](http://url/a.png)                                                                                                                                                                                                                                                                                        
                             
-                                                                                                                                                                                            *Autores* 
-                                                                                                                                                                                                          
-                                                                                                                                                                                                Daniel Alejandro Acero 
-                                                                                                                                                                                                -----------------------
-                                                                                                                                                                                                Julian Triana
-                                                                                                                                                                                                -----------------------
+
