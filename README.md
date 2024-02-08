@@ -124,6 +124,11 @@ Julián David Triana Roa
 
 ## HACER EL ESQUELETO DE LA APLICACIÓN
         
- ![mvn](http://url/a.png)                                                                                                                                                                                                                                                                                        
+ ![mvn](http://url/a.png)      
+
+ Hacer el esqueleto de la aplicacion de acuerdo a la guia de laboratorio
+
+Se ejecuta varias veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+Sin parámetros
                             
 
