@@ -128,11 +128,25 @@ Julián David Triana Roa
 
  Hacer el esqueleto de la aplicacion de acuerdo a la guia de laboratorio
  ![screenshot](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/2a26cffd-0bf6-42bd-b832-5a83dd9aad69)
-![screenshot1](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/fc192df2-86ab-4103-8758-595d22d5f87a)
 
 Se ejecuta varias veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
 
 Sin parámetros
+
+
+
+Parámetro: qwerty
+
+
+Parámetro: pentagon
+
+
+Parámetro: Hexagon
+
+
+##¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+Todas las intrucciones ejecutadas funcionan correctamente, pues hace las correspondientes validaciones como lo son: que tenga párametro, que exista la figura ingresada y por último si cumple lo anterior muestra los vértices de la figura
 
 
                             
