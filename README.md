@@ -1,5 +1,9 @@
 # LABORATORIO 2 - PATTERNS
 
+Daniel Alejandro Acero Varela
+
+Julián David Triana Roa
+
 
 ## LA HERRAMIENTA MAVEN
 
