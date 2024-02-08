@@ -127,8 +127,13 @@ Julián David Triana Roa
  ![mvn](http://url/a.png)      
 
  Hacer el esqueleto de la aplicacion de acuerdo a la guia de laboratorio
+ ![screenshot](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/2a26cffd-0bf6-42bd-b832-5a83dd9aad69)
+![screenshot1](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/fc192df2-86ab-4103-8758-595d22d5f87a)
 
 Se ejecuta varias veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+
 Sin parámetros
+
+
                             
 
