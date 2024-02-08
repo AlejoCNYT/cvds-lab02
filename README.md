@@ -8,10 +8,10 @@ Julián David Triana Roa
 
 ### Cuál es su mayor [utilidad](https://maven.apache.org/what-is-maven.html)
 
-    Maven sirve para facilitar la gestión de proyectos a múltiples a múltiples desarrolladores, aunque tiene múltiples utilidades y potencialidades tales como:
+Maven sirve para facilitar la gestión de proyectos a múltiples a múltiples desarrolladores, aunque tiene múltiples utilidades y potencialidades tales como:
 
-        - Eliminación de código innecesario.
-        - Facilidad para entender un único Modelo de Objeto de Proyecto (POM).
+- Eliminación de código innecesario.
+- Facilidad para entender un único Modelo de Objeto de Proyecto (POM).
         - Proveer información relevante.
         - Utilizar o no determinados plugins.
         - Boostear las mejores prácticas de desarrollo.
