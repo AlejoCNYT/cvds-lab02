@@ -77,7 +77,7 @@ Julián David Triana Roa
         * Id del Artefacto: Patterns
         * Paquete: edu.eci.cvds.patterns.archetype
 
-![Captura de pantalla 2024-02-08 070346](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/9732e6b1-1d43-4e11-bada-2c8fa9c87572)
+![Captura de pantalla 2024-02-08 133326](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/465eefca-b815-4719-82ae-cc61c401e641)
 
     Se verifica la creación de nuevos directorios con nuevos archivos y la estructura del proyecto
 
@@ -101,9 +101,9 @@ Julián David Triana Roa
 
 ## COMPILAR Y EJECUTAR
 
-    Compilamos la nueva versión con el siguiente comando
+    Se compila la nueva versión con el siguiente comando
 
-![Captura de pantalla 2024-02-08 074613](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/c454b532-c70c-458b-a386-567b1230cdda)
+![Captura de pantalla 2024-02-08 133649](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/c9fb9303-fe88-4871-93f4-8c13004dd3e0)
 
     al final de la ejecución, nos confirma el proceso
     
@@ -120,7 +120,18 @@ Julián David Triana Roa
         5. ´-DarchetypeVersion´ Indica la versión del archetype Maven a utilizar. Esto, dado que pueden haber diversas versiones disponibles. 
         6. ´-DinteractiveMode´ Establece o no el modo interactivo al generar el proyecto. Si se proporciona ´false´, se utilizarán los valores por defecto.
 
-            
+    Para verificar la salida como parámetro en "mainClass" y [ejecutar](https://www.mojohaus.org/exec-maven-plugin/usage.html) el proyecto pulsamos:
+
+![Captura de pantalla 2024-02-08 133858](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/8a265a71-dc9d-470e-9b63-891436484ca4)
+
+    y, finalmente
+
+![Captura de pantalla 2024-02-08 133910](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/04816622-d751-4bb0-90f5-0ac920696091)
+
+    Para crear el saludo personalizado se ejecuta la clase App.java 
+
+
+
 
 ## HACER EL ESQUELETO DE LA APLICACIÓN
         
