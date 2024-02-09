@@ -134,13 +134,17 @@ Para crear el saludo personalizado se ejecuta la clase App.java
 
 y, luego, se modifica
 
-![Captura de pantalla 2024-02-08 141900](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/9204a8c3-e73f-432c-b7b5-d8f398c75eb3)
+![imagen](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/ee1774f8-0064-4eec-a405-ef271a4d74e4)
 
-Se valida la salida **Hello World!** desde la línea de comandos
+Ahora, se verifica la ejecución del programa
 
-![imagen](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/a0c2a4f8-2318-4c21-acf1-e62729bdffe5)
+![Captura de pantalla 2024-02-09 090546](https://github.com/AlejoCNYT/cvds-lab02/assets/89206637/ccbad1a0-e688-4cf9-8ba0-1024150cbf3f)
 
-Se [cambia la salida](https://www.mojohaus.org/exec-maven-plugin/examples/example-exec-for-java-programs.html) con el nombre propio
+Se [cambia la salida](https://www.mojohaus.org/exec-maven-plugin/examples/example-exec-for-java-programs.html) con el nombre propio, con ayuda del comando
+
+´´´
+    mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App" -Dexec.args="'argument1' 'argument2'"
+´´´
 
         
 
