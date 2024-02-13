@@ -144,9 +144,8 @@ Se [cambia la salida](https://www.mojohaus.org/exec-maven-plugin/examples/exampl
 
 ´´´
     mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App" -Dexec.args="'argument1' 'argument2'"
-
-![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/8d77df96-7183-4830-9be3-4cacc50bfe80)
-     
+    
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/b37f3ab9-0894-49ec-bb5a-ae4971b3a798)
 
 Se cambia la salida con el nombre y apellido
 
@@ -185,7 +184,7 @@ Parámetro: Hexagon
 
 Todas las intrucciones ejecutadas funcionan correctamente, pues hace las correspondientes validaciones como lo son: que tenga párametro, que exista la figura ingresada y por último si cumple lo anterior muestra los vértices de la figura
 
-![mvn](http://url/a.png)      
+    
 
 
                             
