@@ -175,7 +175,8 @@ ShapeMain
 
 ## Paquete Concrete
 Hexagon
-![IMG_2535](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/93586e7f-4bb3-4832-9204-0d9523cdf994)
+
+![IMG_2532](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/eba66caa-caf5-4c95-a243-fdd58fc27a62)
 
 Pentagon
 
@@ -185,8 +186,8 @@ Quadrilateral
 ![IMG_2534](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/a3fbf172-a437-444e-bd0e-394fe643025a)
 
 Triangle
+![IMG_2535](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/93586e7f-4bb3-4832-9204-0d9523cdf994)
 
-![IMG_2532](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/eba66caa-caf5-4c95-a243-fdd58fc27a62)
 
 ## Finalmente el Factory
 
