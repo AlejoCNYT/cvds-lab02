@@ -160,6 +160,31 @@ Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y 
 Hacer el esqueleto de la aplicacion de acuerdo a la guia de laboratorio
 ![screenshot](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/2a26cffd-0bf6-42bd-b832-5a83dd9aad69)
 
+Creacion de paquetes:
+## Paquete Shapes 
+RegularShapeType
+
+Shape
+
+ShapeMain
+
+## Paquete Concrete
+Hexagon
+
+Pentagon
+
+Quadrilateral
+
+Triangle
+
+## Finalmente el Factory
+
+
+ShapeFactory 
+
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/58d9ddd1-a24d-4b5d-b6b2-17ed94f9644b
+
+
 Se ejecuta varias veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
 
 Sin parámetros
