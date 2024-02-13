@@ -182,7 +182,8 @@ Triangle
 
 ShapeFactory 
 
-![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/58d9ddd1-a24d-4b5d-b6b2-17ed94f9644b
+![IMG_2526](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/2723e81c-e612-41b6-864f-50972db20ea3)
+
 
 
 Se ejecuta varias veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
