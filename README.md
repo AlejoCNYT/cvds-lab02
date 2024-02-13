@@ -152,8 +152,9 @@ Se cambia la salida con el nombre y apellido
 
 
 ![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/d1f5d096-6134-40c6-8d99-850b3153f7ef)
-    
-    
+
+Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida.
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/7aaf22f3-3f7c-4148-b601-ce7968f656c1)
 
 ## HACER EL ESQUELETO DE LA APLICACIÓN
         
