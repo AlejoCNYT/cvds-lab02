@@ -166,12 +166,17 @@ Sin parámetros
 
 
 Parámetro: qwerty
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/dc6e8a0c-c6b8-4752-9c5b-808da0cc0bc3)
 
 
 Parámetro: pentagon
 
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/531b2efe-dffa-41b7-8866-3692312aa765)
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/39c0f52f-b2c7-4109-a907-df70dc6cbf42)
 
 Parámetro: Hexagon
+
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/85ed2dac-c3ff-478e-ad7c-5fcc2a4e1d9d)
 
 
 ## ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
