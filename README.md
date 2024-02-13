@@ -166,10 +166,11 @@ RegularShapeType
 ![IMG_2527](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/f0000d08-3ed2-4e76-a59d-a1e35fea5a6c)
 
 Shape
-![IMG_2531 2](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/b5647402-6ff9-4178-bbe5-2ed1dd47e2a5)
+![IMG_2528](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/36889947-d651-4a04-afc0-b52119fecee8)
 
 ShapeMain
-![IMG_2528](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/36889947-d651-4a04-afc0-b52119fecee8)
+
+![IMG_2531 2](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/b5647402-6ff9-4178-bbe5-2ed1dd47e2a5)
 
 
 ## Paquete Concrete
