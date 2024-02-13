@@ -144,13 +144,14 @@ Se [cambia la salida](https://www.mojohaus.org/exec-maven-plugin/examples/exampl
 
 ´´´
     mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App" -Dexec.args="'argument1' 'argument2'"
-´´´
 
-        
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/8d77df96-7183-4830-9be3-4cacc50bfe80)
+     
 
 Se cambia la salida con el nombre y apellido
 
-    
+
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/d1f5d096-6134-40c6-8d99-850b3153f7ef)
     
     
 
@@ -163,7 +164,7 @@ Se ejecuta varias veces la clase ShapeMain, usando el plugin exec de maven con l
 
 Sin parámetros
 
-
+![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/8ade8212-c966-485e-b7d0-bb63a5e6ec90)
 
 Parámetro: qwerty
 ![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/dc6e8a0c-c6b8-4752-9c5b-808da0cc0bc3)
