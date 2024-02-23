@@ -30,13 +30,13 @@ entre otras.
 
 A continuación la lista completa de [fases](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html) del ciclo de vida 'default' en MAVEN:
 
-1. 'Validate' Validar la correctitud y completitud de la información relacionada al proyecto.
-2. 'Compile' Compilación del coódigo fuente.
-3. 'Test' Ensayo del funcionamiento adecuado.
-4. 'Package' Compilar el código en formato **.jar**.
-5. 'Verify' Control de calidad constante.
-6. 'Install' Uso local de paquetes.
-7. 'Deploy' Compartir el avance local, con el repositorio.
+1.  ´**Validate**´ Validar la correctitud y completitud de la información relacionada al proyecto.
+2. **Compile** Compilación del coódigo fuente.
+3. **Test** Ensayo del funcionamiento adecuado.
+4. **Package** Compilar el código en formato **.jar**.
+5. **Verify** Control de calidad constante.
+6. **Install** Uso local de paquetes.
+7. **Deploy** Compartir el avance local, con el repositorio.
 
 ### Ciclo de vida de la construcción 
 
