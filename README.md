@@ -30,20 +30,20 @@ entre otras.
 
 A continuación la lista completa de [fases](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html) del ciclo de vida 'default' en MAVEN:
 
-1.  ´**Validate**´ Validar la correctitud y completitud de la información relacionada al proyecto.
-2. **Compile** Compilación del coódigo fuente.
-3. **Test** Ensayo del funcionamiento adecuado.
-4. **Package** Compilar el código en formato **.jar**.
-5. **Verify** Control de calidad constante.
-6. **Install** Uso local de paquetes.
-7. **Deploy** Compartir el avance local, con el repositorio.
+1. *Validate* Validar la correctitud y completitud de la información relacionada al proyecto.
+2. *Compile* Compilación del coódigo fuente.
+3. *Test* Ensayo del funcionamiento adecuado.
+4. *Package* Compilar el código en formato **.jar**.
+5. *Verify* Control de calidad constante.
+6. *Install* Uso local de paquetes.
+7. *Deploy* Compartir el avance local, con el repositorio.
 
 ### Ciclo de vida de la construcción 
 
-El ciclo de vida de construcción puede variar en sus fases. Adicionalmente a la ´default´, podemos listar las siguientes:
+El ciclo de vida de construcción puede variar en sus fases. Adicionalmente a la 'default', podemos listar las siguientes:
 
-* ´Clean´ Eliminar archivos anteriormente creados. Realizar proyectos de elementales antes y después de la limpieza.
-* ´site´ Generar la documentación del sitio web del proyecto. Procesos anteriores y posteriores a la ejecución del sitio. Generar documentación.
+* *Clean* Eliminar archivos anteriormente creados. Realizar proyectos de elementales antes y después de la limpieza.
+* *site* Generar la documentación del sitio web del proyecto. Procesos anteriores y posteriores a la ejecución del sitio. Generar documentación.
 
 ### Para qué sirven los plugins 
 
@@ -111,14 +111,15 @@ al final de la ejecución, nos confirma el proceso
 
 por lo cual, no será necesario actualizar las dependencias con el comando ´mvn -U package´. 
 
-El parámetro **package** del comando ´mvn archetype:generate´ establece la estructura de los paquetes Java del proyecto. No obstante, el comando ´mvn archetype:generate´ puede recibir otros parámetros tales como
+El parámetro **package** del comando 'mvn' establece la estructura de los paquetes Java del proyecto. No obstante, el comando ´mvn archetype:generate´ puede recibir otros parámetros tales como
 
-1. ´-DgroupId´ Es el identificador del grupo de proyecto. Particularmente, su notación es inversa tal y como se muestra en ´edu.eci.cvds´.
-2. ´-DartifactId´ Se usa para definir el identificador del artefacto del proyecto. Este, es el nombre único del proyecto y genera e nombre del archvo JAR entre otros artefactos de manera similar a como ´Patterns´ lo hace.
-3. ´-DarchetypeGroupId´ Se usa para definir el identificador de grupo archetype Maven. De este modo, se especifica el grupo archetype que genera el proyecto.
-4. ´-DarchetypeArtifactId´ Define el identificador archetype Maven. Con él, se especifica el archetype Maven que genera el proyecto. Es el papel que cumple ´maven-archetype-quickstart´.
-5. ´-DarchetypeVersion´ Indica la versión del archetype Maven a utilizar. Esto, dado que pueden haber diversas versiones disponibles. 
-6. ´-DinteractiveMode´ Establece o no el modo interactivo al generar el proyecto. Si se proporciona ´false´, se utilizarán los valores por defecto.
+1) *compile* Compilar el códgigo fuente.
+2) *test* Para realizar ejecución de pruebas unitarias.
+3) *install* Facilita el uso de dependencias en otros proyectos, instalando artefactos del repositorio local.
+4) *deploy* Permite copiar artefactos remotos.
+5) *clean* elimina archivos o artefactos generados en el proyecto.
+6) *validate* Valida el correcto funcionamiento y configuración del proyecto.
+7) *help* Ofrece información acerca de objetivos o plugins del proyecto.
 
 Para verificar la salida como parámetro en "mainClass" y [ejecutar](https://www.mojohaus.org/exec-maven-plugin/usage.html) el proyecto pulsamos:
 
@@ -152,7 +153,7 @@ Se cambia la salida con el nombre y apellido
 
 ![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/d1f5d096-6134-40c6-8d99-850b3153f7ef)
 
-Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida.
+Se ejecuta la clase desde línea de comandos, con nombres como parámetro.
 ![image](https://github.com/AlejoCNYT/cvds-lab02/assets/74771189/7aaf22f3-3f7c-4148-b601-ce7968f656c1)
 
 ## HACER EL ESQUELETO DE LA APLICACIÓN
